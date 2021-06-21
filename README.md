@@ -1,2 +1,2 @@
-# copinchapedia
-wiki del del hackerspace Copincha
+# Copinchapedia
+Wiki del del hackerspace Copincha
